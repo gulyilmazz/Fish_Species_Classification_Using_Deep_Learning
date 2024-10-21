@@ -26,7 +26,7 @@ Modelin test verisi ile değerlendirilmesi yapılmış, doğruluk ve kayıp değ
 [Kaggle Notebook Linki] https://www.kaggle.com/code/ltfiyeglyilmaz/annfish-species-classification-using-deep-learning
 
 
-****************************************************************************************************ENGLISH************************************************************************************************************
+****************************************************************************************************EN*********************************************************************************************************
 # Fish Classification Project
 
 This project was developed as part of the Akbank Deep Learning Bootcamp. A Neural Network (ANN) model has been created to classify different fish species using the 'A Large Scale Fish Dataset' available on Kaggle.
